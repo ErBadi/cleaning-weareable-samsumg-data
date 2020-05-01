@@ -41,6 +41,6 @@ Simple process to just **select the columns containing either 'mean' or 'std'**,
 
 Taking the tidy data set from the previous step, just **change the data to be presented by the 'label' column**, as a per unit basis. That is, each row represents one observation of a wereable characteristic from one person doing one activity. 
 
-Then, **change that to be presented each row one person, a whole activity and one weareable characteristic. **
+Then, **change that to be presented each row one person, a whole activity and one weareable characteristic.**
 
 That data set is the tidy data set, named 'finalDT.txt'
